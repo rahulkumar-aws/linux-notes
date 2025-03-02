@@ -9,4 +9,6 @@ sudo nano /etc/hosts
 sudo systemctl restart systemd-hostnamed
 #reboot system for update
 sudo reboot
+#verify hostname
+hostnamectl
 ```
